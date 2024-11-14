@@ -24,6 +24,8 @@ cd Default-toolsR
 ruby risky.rb
 
 ## Notice
-ini adalah tools yang secara default sudah terinstall di terminal, ("bg default gimana?")....... ya default jadi saya pake distro linux parrot, nah tools yang sudah di sediakan
-parrot os dari sana nya lah jadi untuk memudahkan saja sih tapi ga full artinya semua perintah lebih bagus di ketik manual sesuai keinginan tapi kalau mau sat set sat settt juga bisa
+ini adalah tools yang secara default sudah terinstall di terminal, ("bg default gimana?")....... 
+ya default jadi saya pake distro linux parrot, nah tools yang sudah di sediakan
+parrot os dari sana nya lah jadi untuk memudahkan saja sih tapi ga full artinya semua perintah 
+lebih bagus di ketik manual sesuai keinginan tapi kalau mau sat set sat settt juga bisa
 tapi ga menjamin sukses tergantung target masing-masing sih.
